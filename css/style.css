@@ -1,0 +1,13 @@
+.sofolota-bg-success{
+    background-color: #fceae8;
+}
+.categories img{
+    width: 100px;
+}
+.shoes-btn-info{
+    background-image: linear-gradient(to bottom, rgb(199, 149, 13) 0%, rgba(185, 152, 5, 0.877) 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 8px 24px;
+    border: 0px;
+}
